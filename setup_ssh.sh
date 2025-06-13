@@ -12,4 +12,4 @@ if [ ! -f ~/.ssh/id_rsa ]; then
 fi
 
 # Copy the key to the remote server
-ssh-copy-id administrator@93.127.134.239
+ssh-copy-id administrator@93.127.134.81
